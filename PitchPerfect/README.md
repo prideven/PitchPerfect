@@ -1,14 +1,14 @@
-udacity.com student submission
+**udacity.com student submission**
 AppVersion 1.0       Swift 5       iOS Nanodegree Course This repository contains the project submission for udacity.com project work "PitchPerfect" during my iOS developer certification program (iOS Nanodegree Course).
 
-Frameworks & Technologies
+**Frameworks & Technologies**
 This app uses the following frameworks & technologies
 
 UIKit       AVFoundation       AutoLayout       Asynchronous Programming
 
 #Viewcontrollers RecordSoundsViewController - This has the record button and stop record button, once recording is dont it navigates to PlaySoundsViewController with the performSegue function. PlaySoundsViewController - This view uses the audio recorded and has six different buttons for playbacks.
 
-App Specifications
+**App Specifications**
 The app will have two view scenes.
 
 Recording View: Allows user record sounds.
@@ -25,8 +25,8 @@ By pressing the stop button the recording should stpped and navigate the user to
 This view allows user to play the recorded sound by six different tones.
 
        
-Keywords
+**Keywords**
 iOS       Swift       Swift 5       XCode       UIKit       AVFoundation       Record       Mobile Development       Udacity       Extensions       Foundation       AutoLayout       Asynchronous Programming
 
-Demo
+**Demo**
 Udacity App Demo
